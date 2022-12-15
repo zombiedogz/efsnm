@@ -7,11 +7,9 @@ background: '/img/posts/06.jpg'
 ---
 
 # This is a test
-
-This is about this test.
+This is about that test.
 
 ## This is another test
+This is about that other test.
 
-This is about another test.
-
-That is all.
+That is cool or not.
