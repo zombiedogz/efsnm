@@ -7,4 +7,6 @@
 [ ] Change home page layout
 [ ] Remove unecessary files
 [ ] Fill out the README File
+[ ] Update the footer
+[ ] Change the copywright
 
