@@ -7,6 +7,8 @@ background: '/img/bg-services.jpg'
 
 
 # IT Consulting
+
+---
 ## Technical Planning
 - Site Surveys, Needs Assessment, Proposals, & Project Scopes
 - Strategic Technical Resource Utilization (Hardware, Software & People)
@@ -26,3 +28,44 @@ background: '/img/bg-services.jpg'
 - Environmental Concerns (temperature, cleanliness, site, noise, power, static)
 - World Wide Remote Access
 - Work at Home with VPN (Virtual Private Networking)
+
+## IT Systems Training
+
+- System Administration
+- End User Application Training
+- System Maintenance Training
+
+## System Administration Training
+
+- Desktop and Server Performance & Tuning
+- Basic Server Administration
+- Documentation of all aspects of your IT environment
+
+## End User Desktop Training
+
+- Desktop Performance & Tuning
+- Basic Desktop Administration
+- Maintenance
+
+## System Maintenance Training
+
+- Installation of the latest operating system Service Packs
+- Installation of the latest application Service Packs
+- Removal of unnecessary applications
+- Hard Drive cleanup & Removal of temp files
+- System Integrity Check
+- Hard Drive Defragmentation
+- Registry Cleanup and Repair
+- System Configuration Verification
+- Anti-virus Protection
+- Anti-Spyware Protection
+- Power Protection
+- System Backups
+- Computer Cleaning of Internal and External Components
+
+## Vendor Coordination
+
+- Product Review and Support
+- IT Consulting
+- Purchasing
+- Technical Support for ANY software application
