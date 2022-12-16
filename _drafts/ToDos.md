@@ -1,8 +1,8 @@
 ## EFS To Do List
 
-- [ ] Optimize Images aka make file size smaller
+- [x] Optimize Images aka make file size smaller
 - [ ] Fix contact form - Connect to Google Forms
-- [ ] add address phone to contact page & social
+- [ ] Add address phone to contact page & social
 - [x] Add content to the home page
 - [ ] Add blog content with images
 - [x] Change home page layout
