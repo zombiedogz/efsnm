@@ -11,7 +11,7 @@
 - [x] Change the copywright
 - [x] Fix linkedIn path
 - [x] Create a Front page include
-- [ ] Add images to front page.
+- [ ] Add images to front page. Code & PC repair
 - [ ] Add Terms & Privacy
 - [ ] Add sitemap 
 
