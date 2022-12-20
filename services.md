@@ -72,6 +72,7 @@ background: '/img/bg-services.jpg'
 
 ---
 
+
 # Technical Support
 
 ## Proactive IT Maintenance
@@ -107,6 +108,7 @@ background: '/img/bg-services.jpg'
 
 ---
 
+
 # Application Development
 
 ## We offer a variety of application development services:
@@ -116,10 +118,10 @@ background: '/img/bg-services.jpg'
 - Custom Application Integration
 - Custom Solutions to fit Your Business Needs
 
-
-## We develop applications for the Windows, Mac and Linux operating system platform.
+We develop applications for the Windows, Mac and Linux operating system platform.
 
 ---
+
 
 # Law Firm Tech Support
 
@@ -145,6 +147,7 @@ background: '/img/bg-services.jpg'
 - Web, Domain and Cloud Application Support
 
 ---
+
  
 # Real Estate Firm Tech Support
 
@@ -161,8 +164,9 @@ background: '/img/bg-services.jpg'
 - Cloud Services Integration and Support
 - Quickbooks Support
 
---- 
- 
+---
+
+
 # IT Managed Service Support
 
 ## Cloud Application Support
@@ -182,6 +186,7 @@ background: '/img/bg-services.jpg'
 - Google Drive, OneDrive, Box and Dropbox Support
 - VMWare Desktop, Server and Hosted Office Support
 - Vendor Cloud Integration, Support and Coordination
+
 
 # Advanced Remote IT Administration & IT Management
 
