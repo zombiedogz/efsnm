@@ -18,5 +18,5 @@
 - [x] Add Services Page
 - [ ] Add content to services page
 - [ ] Fix the contact response to thank you, we will be in touch from subscribing
-
+- [ ] Add description to contact form
 
