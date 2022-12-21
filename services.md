@@ -9,6 +9,7 @@ background: '/img/bg-services.jpg'
 # IT Consulting
 ---
 <br />
+
 ## Technical Planning
 - Site Surveys, Needs Assessment, Proposals, & Project Scopes
 - Strategic Technical Resource Utilization (Hardware, Software & People)
@@ -29,21 +30,25 @@ background: '/img/bg-services.jpg'
 - World Wide Remote Access
 - Work at Home with VPN (Virtual Private Networking)
 <br />
+
 ## IT Systems Training
 - System Administration
 - End User Application Training
 - System Maintenance Training
 <br />
+
 ## System Administration Training
 - Desktop and Server Performance & Tuning
 - Basic Server Administration
 - Documentation of all aspects of your IT environment
 <br />
+
 ## End User Desktop Training
 - Desktop Performance & Tuning
 - Basic Desktop Administration
 - Maintenance
 <br />
+
 ## System Maintenance Training
 - Installation of the latest operating system Service Packs
 - Installation of the latest application Service Packs
@@ -59,17 +64,19 @@ background: '/img/bg-services.jpg'
 - System Backups
 - Computer Cleaning of Internal and External Components
 <br />
+
 ## Vendor Coordination
 - Product Review and Support
 - IT Consulting
 - Purchasing
 - Technical Support for ANY software application
 ---
+
 <br /> 
 # Technical Support
 <br />
+
 ## Proactive IT Maintenance
- 
 - Desktop and Server Performance & Tuning
 - Installation of the latest operating system Service Packs
 - Installation of the latest application Service Packs
