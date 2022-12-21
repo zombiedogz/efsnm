@@ -29,26 +29,26 @@ background: '/img/bg-services.jpg'
 - Environmental Concerns (temperature, cleanliness, site, noise, power, static)
 - World Wide Remote Access
 - Work at Home with VPN (Virtual Private Networking)
-<br />
 
+<br />
 ## IT Systems Training
 - System Administration
 - End User Application Training
 - System Maintenance Training
-<br />
 
+<br />
 ## System Administration Training
 - Desktop and Server Performance & Tuning
 - Basic Server Administration
 - Documentation of all aspects of your IT environment
-<br />
 
+<br />
 ## End User Desktop Training
 - Desktop Performance & Tuning
 - Basic Desktop Administration
 - Maintenance
-<br />
 
+<br />
 ## System Maintenance Training
 - Installation of the latest operating system Service Packs
 - Installation of the latest application Service Packs
@@ -63,8 +63,8 @@ background: '/img/bg-services.jpg'
 - Power Protection
 - System Backups
 - Computer Cleaning of Internal and External Components
-<br />
 
+<br />
 ## Vendor Coordination
 - Product Review and Support
 - IT Consulting
@@ -74,8 +74,8 @@ background: '/img/bg-services.jpg'
 
 <br /> 
 # Technical Support
-<br />
 
+<br />
 ## Proactive IT Maintenance
 - Desktop and Server Performance & Tuning
 - Installation of the latest operating system Service Packs
