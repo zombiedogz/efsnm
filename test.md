@@ -25,13 +25,13 @@ Here is a vegan and gluten-free recipe for quinoa with vegetables that can be ma
 - 1/4 cup chopped fresh herbs (such as cilantro or parsley)
 
 ## Instructions:
-
- -Rinse the quinoa in a fine-mesh strainer and add it to the Instant Pot with the water.
- -Add the vegetables, tofu, garlic, ginger, soy sauce, and sesame seeds to the Instant Pot.
- -Pour in the vegetable broth and add the can of diced tomatoes.
- -Close the Instant Pot lid and set the valve to sealing. Press the "manual" or "pressure cook" button and set the timer for 5 minutes.
- -When the timer goes off, carefully release the pressure by moving the valve to venting.
- -Stir in the chopped fresh greens and herbs.
- -Serve the stew hot.
+ 
+ - Rinse the quinoa in a fine-mesh strainer and add it to the Instant Pot with the water.
+ - Add the vegetables, tofu, garlic, ginger, soy sauce, and sesame seeds to the Instant Pot.
+ - Pour in the vegetable broth and add the can of diced tomatoes. 
+ - Close the Instant Pot lid and set the valve to sealing. Press the "manual" or "pressure cook" button and set the timer for 5 minutes.
+ - When the timer goes off, carefully release the pressure by moving the valve to venting .
+ - Stir in the chopped fresh greens and herbs. 
+ - Serve the stew hot.
 
 This recipe is easy to customize with your favorite vegetables and can be served as a main dish or as a side. You can also add other seasonings or sauces to taste. Enjoy!
