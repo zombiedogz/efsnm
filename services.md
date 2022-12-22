@@ -41,6 +41,7 @@ background: '/img/bg-services.jpg'
 - End User Application Training
 - System Maintenance Training
 
+<p> </p>
 
 ## System Administration Training
 
@@ -48,6 +49,7 @@ background: '/img/bg-services.jpg'
 - Basic Server Administration
 - Documentation of all aspects of your IT environment
 
+<p> </p>
 
 ## End User Desktop Training
 
@@ -55,6 +57,7 @@ background: '/img/bg-services.jpg'
 - Basic Desktop Administration
 - Maintenance
 
+<p> </p>
 
 ## System Maintenance Training
 
@@ -72,6 +75,7 @@ background: '/img/bg-services.jpg'
 - System Backups
 - Computer Cleaning of Internal and External Components
 
+<p> </p>
 
 ## Vendor Coordination
 
@@ -82,9 +86,11 @@ background: '/img/bg-services.jpg'
 
 ---
 
+<p> </p>
 
 # Technical Support
 
+<p> </p>
 
 ## Proactive IT Maintenance
 
@@ -104,6 +110,8 @@ background: '/img/bg-services.jpg'
 - Computer Cleaning of Internal and External Components
 - Documentation of all aspects of your IT environment
 
+<p> </p>
+
 ## Mobile Devices Support
 
 - Apple iPhones
@@ -119,9 +127,11 @@ background: '/img/bg-services.jpg'
 
 ---
 
+<p> </p>
 
 # Application Development
 
+<p> </p>
 
 ## We offer a variety of application development services:
 
@@ -134,8 +144,11 @@ We develop applications for the Windows, Mac and Linux operating system platform
 
 ---
 
+<p> </p>
 
 # Law Firm Tech Support
+
+<p> </p>
 
 ## Law Firm Office and Application Support
 
@@ -160,9 +173,11 @@ We develop applications for the Windows, Mac and Linux operating system platform
 
 ---
 
+<p> </p>
 
 # Real Estate Firm Tech Support
 
+<p> </p>
 
 ## Real Estate Office Support
 
@@ -179,9 +194,11 @@ We develop applications for the Windows, Mac and Linux operating system platform
 
 ---
 
+<p> </p>
 
 # IT Managed Service Support
 
+<p> </p>
 
 ## Cloud Application Support
 
@@ -201,6 +218,7 @@ We develop applications for the Windows, Mac and Linux operating system platform
 - VMWare Desktop, Server and Hosted Office Support
 - Vendor Cloud Integration, Support and Coordination
 
+<p> </p>
 
 # Advanced Remote IT Administration & IT Management
 
