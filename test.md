@@ -1,8 +1,8 @@
+# Instant Pot Quinoa and Vegetable Stew:
+
 Here is a vegan and gluten-free recipe for quinoa with vegetables that can be made in an Instant Pot and does not require any oil:
 
-Instant Pot Quinoa and Vegetable Stew:
-
-Ingredients:
+## Ingredients:
 
     1 cup quinoa, rinsed
     2 cups water
@@ -17,7 +17,7 @@ Ingredients:
     1 cup chopped fresh greens (such as spinach or kale)
     1/4 cup chopped fresh herbs (such as cilantro or parsley)
 
-Instructions:
+## Instructions:
 
     Rinse the quinoa in a fine-mesh strainer and add it to the Instant Pot with the water.
     Add the vegetables, tofu, garlic, ginger, soy sauce, and sesame seeds to the Instant Pot.
