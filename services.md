@@ -9,7 +9,9 @@ background: '/img/bg-services.jpg'
 # IT Consulting
 
 ---
+
 <p> </p>
+
 ## Technical Planning
 
 - Site Surveys, Needs Assessment, Proposals, & Project Scopes
