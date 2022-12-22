@@ -9,7 +9,7 @@ background: '/img/bg-services.jpg'
 # IT Consulting
 
 ---
-
+<p> </p>
 ## Technical Planning
 
 - Site Surveys, Needs Assessment, Proposals, & Project Scopes
@@ -31,6 +31,7 @@ background: '/img/bg-services.jpg'
 - World Wide Remote Access
 - Work at Home with VPN (Virtual Private Networking)
 
+<p> </p>
 
 ## IT Systems Training
 
