@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Security Update Notice - December 2022"
-subtitle: "Microsoft Monthly Secuirty Updates"
+subtitle: "Microsoft Monthly Security Updates"
 date: 2022-12-14 10:00:00 -0400
 background: '/img/posts/bg_ms_security.jpg'
 ---
 
 # Security Update Notice - December 2022
 
-Microsoft has released a security update to address vulnerabilities in certain products. This update includes improvements and fixes to enhance the security of the affected software.
+Microsoft has released security updates to address vulnerabilities in certain products. These updates include improvements and fixes to enhance the security of the affected software.
 
 Affected products:
 - Microsoft Windows
