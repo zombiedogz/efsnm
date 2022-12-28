@@ -6,9 +6,9 @@ date: 2022-12-27 10:00:00 -0400
 background: '/img/posts/06.jpg'
 ---
 
-![Lastpass](/img/post_lastpass.png "Lastpass")
+![Lastpass](./img/posts/lastpass.png "Lastpass")
 
-# Notice of Vault data stolen
+# Notice of Vault Data Stolen
 
 On December 22, 2022, LastPass, a popular password manager, announced that it had suffered another security incident. According to the company, the incident occurred after another security incident in August 2022. 
 
