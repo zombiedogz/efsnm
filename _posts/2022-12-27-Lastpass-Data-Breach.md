@@ -3,10 +3,10 @@ layout: post
 title: "Lastpass Data Breach 2022"
 subtitle: "Customer Vault Data Stolen"
 date: 2022-12-27 10:00:00 -0400
-background: '/img/posts/06.jpg'
+background: '/img/posts/bg_cybercrime.jpg'
 ---
 
-![Lastpass](./img/posts/lastpass.png "Lastpass")
+![Lastpass](efsnm/img/posts/lastpass.png "Lastpass")
 
 # Notice of Vault Data Stolen
 
