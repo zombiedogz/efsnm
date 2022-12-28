@@ -6,7 +6,7 @@ date: 2022-12-27 10:00:00 -0400
 background: '/img/posts/bg_cybercrime.jpg'
 ---
 
-![Lastpass](https://zombiedogz.github.io/efsnm/img/posts/lastpass.png)
+![Lastpass]({{ post.url | prepend: site.baseurl | replace: '//', '/' }}/img/posts/lastpass.png)
 
 # Notice of Vault Data Stolen
 
