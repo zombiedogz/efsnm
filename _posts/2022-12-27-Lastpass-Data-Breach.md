@@ -6,7 +6,7 @@ date: 2022-12-27 10:00:00 -0400
 background: '/img/posts/bg_cybercrime.jpg'
 ---
 
-![Lastpass](./efsnm/img/posts/lastpass.png "Lastpass")
+![Lastpass](./efsnm/img/posts/lastpass.png)
 
 # Notice of Vault Data Stolen
 
