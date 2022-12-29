@@ -4,6 +4,9 @@ title: "Security Update Notice - December 2022"
 subtitle: "Microsoft Monthly Security Updates"
 date: 2022-12-14 10:00:00 -0400
 background: '/img/posts/bg_ms_security.jpg'
+categories: cybersecurity updates
+permalink: /:title
+updated: 2022-12-29 10:00:00 -0400
 ---
 
 # Security Update Notice - December 2022

@@ -4,6 +4,9 @@ title: "What is BEC?"
 subtitle: "The TOP Method per the FBI"
 date: 2022-12-1 10:00:00 -0400
 background: '/img/posts/bg_email.jpg'
+categories: cybersecurity
+permalink: /:title
+updated: 2022-12-29 10:00:00 -0400
 ---
 
 # What is BEC?

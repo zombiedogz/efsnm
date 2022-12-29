@@ -4,6 +4,9 @@ title: "Lastpass Data Breach 2022"
 subtitle: "Customer Vault Data Stolen"
 date: 2022-12-27 10:00:00 -0400
 background: '/img/posts/bg_cybercrime.jpg'
+categories: cybersecurity
+permalink: /:title
+updated: 2022-12-29 10:00:00 -0400
 ---
 
 ![Lastpass](https://zombiedogz.github.io/efsnm/img/posts/lastpass.png)
