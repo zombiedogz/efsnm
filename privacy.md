@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-description: Small business helping small businesses.
+title: Privacy
+description: EFS Network Management Privacy
 background: '/img/bg-about.jpg'
 ---
 

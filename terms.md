@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms of Use
+title: Terms of Service
 description: EFS Network Management Terms.
 background: '/img/bg-about.jpg'
 ---
