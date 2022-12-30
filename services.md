@@ -6,7 +6,7 @@ background: '/img/bg-services.jpg'
 ---
 
 
-# IT Consulting
+# Expert IT Consulting
 
 ---
 
