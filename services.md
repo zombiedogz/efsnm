@@ -33,6 +33,18 @@ background: '/img/bg-services.jpg'
 - World Wide Remote Access
 - Work at Home with VPN (Virtual Private Networking)
 
+EFS Network Management is a small business that offers expert IT consulting services to help small businesses plan and implement their technical resources effectively. Our services include site surveys, needs assessments, proposal development, and project scope creation to ensure that we fully understand the unique needs of each client.
+
+We specialize in helping businesses maximize their technical resources by providing strategic guidance on hardware, software, and personnel utilization. This includes support for the deployment of new servers, desktops, networks, and other technical solutions, as well as the development of technical company policies and procedures.
+
+In addition to these services, we also offer support for new office construction, including management and coordination, as well as assistance with the migration of old systems to new systems and the relocation of entire companies or individual employees.
+
+EFS Network Management is also equipped to handle disaster recovery scenarios, including the protection and recovery of data, servers, and desktops. We have experience working in high risk environments and can assist with future growth planning, budgeting, and the evaluation of new technologies.
+
+Security and protection are also key concerns for our clients, and we offer a range of services to ensure the  security of your business. This includes electrical protection, server security, employee profile management, and remote access controls. We also consider environmental concerns such as temperature, cleanliness, site conditions, noise, power, and static electricity.
+
+For businesses with employees who need to work remotely, we offer support for virtual private networking (VPN) solutions that allow for secure access to company resources from anywhere in the world. Let EFS Network Management be your trusted partner for all of your technical planning needs.
+
 <p> </p>
 
 ## IT Systems Training
@@ -40,6 +52,16 @@ background: '/img/bg-services.jpg'
 - System Administration
 - End User Application Training
 - System Maintenance Training
+
+Our team of expert system administrators is here to ensure that your technology systems are running smoothly and efficiently, freeing you up to focus on other important aspects of your business.
+
+In addition to system administration, we also offer end user application training to help your team get up to speed on the tools and software they use every day. This includes one-on-one training sessions and customizable training plans that are tailored to the specific needs of your business.
+
+We also offer system maintenance training to help your team stay up to date on the latest best practices and techniques for keeping your systems running smoothly. Whether you need assistance with basic maintenance tasks or more advanced technical support, our team has the knowledge and expertise to help you get the job done.
+
+Overall, EFS Network Management is your trusted partner for all of your system administration, training, and maintenance needs. We are committed to helping your small businesses succeed by providing top-notch technical support and guidance. Contact us to learn more about how we can help your business thrive.
+
+
 
 <p> </p>
 
