@@ -2,7 +2,7 @@ title:              EFS Network Management
 email:              support@efsnm.com
 description:        We provide expert IT support and Application Development services
 author:             EFS Network Management
-baseurl:            "/efsnm"
+baseurl:            "/"
 url:                "https://zombiedogz.github.io"
 
 
